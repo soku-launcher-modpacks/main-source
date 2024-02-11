@@ -1,1 +1,1 @@
-{"name":"SaveRep","author":"Hagb","priority":"0","repositories":[{"type":"github","owner":"soku-launcher-modpacks","repo":"SaveRep"}],"description":"Saves a replay in cases where vanilla Soku wouldn't. (esc, crash...)","descriptionI18n":[],"versionNumbers":["0.2.3"]}
+{"name":"SaveRep","author":"Hagb","priority":"0","repositories":[{"type":"github","owner":"soku-launcher-modpacks","repo":"SaveRep"}],"description":"Saves a replay in cases where vanilla Soku wouldn't. (esc, crash...)","descriptionI18n":[],"versionNumbers":["0.2.3"],"recommendedVersionNumber":"0.2.3"}
