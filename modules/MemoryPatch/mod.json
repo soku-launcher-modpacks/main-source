@@ -1,0 +1,1 @@
+{"name": "MemoryPatch", "description": "Lets you do low level patches to the game.", "author": "??", "priority": "0", "repositories": [{"type": "github", "owner": "soku-launcher-modpacks", "repo": "MemoryPatch"}], "versionNumbers": ["0.0.1"], "recommendedVersionNumber": "0.0.1", "descriptionI18n": [{"language": "en", "content": "Lets you do low level patches to the game."}]}

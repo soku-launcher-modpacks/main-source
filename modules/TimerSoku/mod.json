@@ -1,0 +1,1 @@
+{"name": "TimerSoku", "description": "Gameplay mod that adds a timer.", "author": "PinkySmile", "priority": "0", "repositories": [{"type": "github", "owner": "soku-launcher-modpacks", "repo": "TimerSoku"}], "versionNumbers": ["0.0.1"], "recommendedVersionNumber": "0.0.1", "descriptionI18n": [{"language": "en", "content": "Gameplay mod that adds a timer."}]}
