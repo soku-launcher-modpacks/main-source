@@ -1,0 +1,1 @@
+{"version":"0.2.5","main":"SaveRep.dll","notes":"Changelog v0.2.3->v0.2.5:\n\n- Fix potential infinite recursion when the game crashes.\n- Print more debug information when the game crashes.\n- Improve robustness.","notesI18n":[],"configFiles":[]}
