@@ -1,0 +1,1 @@
+{"version":"0.4.2.2","main":"d3d9.dll","notes":"Fixed the problem triggered by opening an application as administrator, changing the fullscreen state while the game is open, or something else.","notesI18n":[],"configFiles":[]}
