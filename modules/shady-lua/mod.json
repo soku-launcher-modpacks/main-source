@@ -1,1 +1,0 @@
-{"name": "shady-lua", "description": "Lua scripting support for shady-loader.", "author": "DPhoenix", "repositories": [{"type": "github", "owner": "soku-launcher-modpacks", "repo": "shady-lua"}], "versionNumbers": ["2.7.0a"], "recommendedVersionNumber": "2.7.0a", "descriptionI18n": [{"language": "en", "content": "Lua scripting support for shady-loader."}]}
