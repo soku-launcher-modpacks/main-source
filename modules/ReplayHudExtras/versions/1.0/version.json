@@ -1,0 +1,1 @@
+{"version":"1.0","main":"ReplayHudExtras.dll","notes":"- In-game replay progress bar with frame position and game time (current/total), shown during replay playback. \n- Toggle hotkey default Ctrl+H\n- Configurable display, size, see ReplayHudExtras.ini.","notesI18n":[],"configFiles":[]}
