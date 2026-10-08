@@ -1,0 +1,1 @@
+{"version":"1.2.0","main":"DisplayManager.dll","notes":"https://github.com/Aneroze/SokuDisplayManager\n\nsee details README ChangeLog in github\n\nDM = DisplayManager\nWR = WindowResizer \nBetter than WR to replace it totally\n*disable WR before enable DM or DM will disable itself**\n","notesI18n":[],"configFiles":[]}
