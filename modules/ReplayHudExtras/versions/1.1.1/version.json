@@ -1,0 +1,1 @@
+{"version":"1.1.1","main":"ReplayHudExtras.dll","notes":"- The progress bar sits a little higher, so it no longer overlaps ReplayTakeover's countdown bar.\n- The frame rate (60 or giuroll's 62) is detected automatically; the ini's fps is now an optional override.\n- Fixed an \"Assertion failed\" dialog could appear when closing the game.","notesI18n":[],"configFiles":[]}
